@@ -1,0 +1,29 @@
+A MULTILAYER PERCEPTRON FOR EMPLOYEE ATTRITION ANALYTICS
+
+Barath P
+
+UG -Student, Department of CSE,
+
+Bannari Amman Institute of Technology, Sathyamangalam, Erode
+
+Abstract: Employee attrition is the burdensome issue which are faced by an
+organization or employers. There are many reasons for employee attrition which should
+be avoided by any means. Industries with high attrition experience knowledge loss,
+training costs, and a never-ending recruiting cycle. For every firm, finding and keeping
+qualified employees is a major challenge. Time is needed to create a formal employee
+satisfaction survey, establish a career promotion programmer, and develop a methodical
+hiring procedure. Only those who are unfit of employment will remain if employees
+complain about onerous workloads, extra hours, or inadequate pay. The research under
+consideration demonstrates a strong correlation between overtime and monthly revenue
+with attrition. The main aim of employee attrition analytics is to predict which staff
+members will leave next and to create a system which may assist in staff retention. This
+work presents the Multilayer Perceptron (MP) model is for analyzing employee
+attrition. This work utilizes IBM Watson Human Resource datasets for experimentation.
+The experimental result shows MP gives 81.87% accuracy for 2-, 3- and 4-layer
+networks. The job level, total working of years and monthly income play vital roles in
+employee attrition.
+
+Keywords: Human Resource Management, Human Resource Analytics, Deep
+Learning, MPM
+
+Team members: Sughith V, Rajarohini M, Prakasini P
