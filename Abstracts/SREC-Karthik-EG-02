@@ -1,0 +1,22 @@
+ARDUINO BASED DUAL AXIS SMART SOLAR TRACKING SYSTEM
+
+M. Karthik 1 , R. Vishnu 2 , M. Vigneshwar 3 , M. Logaeshwar 4
+
+1Assistant Professor, Department of Electrical and Electronics Engineering, Sri Ramakrishna Engineering College,
+
+Coimbatore, Tamil Nadu, India.
+
+2, 3, 4 UG Students, Department of Electrical and Electronics Engineering, Sri Ramakrishna Engineering College,
+
+Coimbatore, Tamil Nadu, India,
+
+Abstract : One of the most important concerns facing the globe now is the energy crisis. The only
+remedy for this problem is renewable energy. In recent years, solar panels have been employed
+more frequently to transform solar energy into electrical energy. It is reasonably priced and almost
+completely safe for the environment. The electromagnetic radiation that is used to produce
+electricity is released by it. The major goal is to develop a workable autonomous solar tracking
+system that moves the solar panel so that it remains always perpendicular to the sun. In this system,
+the sensor will be a photo resistor. The vertical and horizontal axes of the dual axis solar panel are
+rotated in order to increase the efficiency of the device. Hence dual axis provides precise control of
+elevation of the panel relative to the sun. This will provide better efficiency of the panel.
+Keywords: dual axis, renewable, solar panels, tracking, energy.
